@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: TargetClassColor
+## Author: Alex
+
+TargetClassColor.lua
